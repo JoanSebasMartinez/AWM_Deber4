@@ -6,6 +6,7 @@ const Formulario = (props) => {
     const [fnTitle, setFnTitle] =  useState("");
     const [lnTitle, setLnTitle] =  useState("");
     const [eTitle, setETitle] =  useState("");
+    
     const [pTitle, setPTitle] =  useState("");
     const [cPTitle, setCpTitle] =  useState("");
 
